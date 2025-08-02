@@ -1,0 +1,151 @@
+{
+  "discord": {
+    "applicationId": "1401237095858700368",
+    "customStatus": {
+      "state": "Live happily!"
+    }
+  },
+  "rotationInterval": 300000,
+  "adobeApps": [
+    {
+      "name": "Premiere Pro",
+      "details": "Video editing software",
+      "state": "Editing video content",
+      "type": "PLAYING",
+      "largeImage": "1401238682681212968",
+      "largeImageText": "Adobe Premiere Pro 2024",
+      "smallImage": "creative_cloud",
+      "smallImageText": "Creative Cloud",
+      "url": "https://www.adobe.com/products/premiere.html",
+      "buttons": [
+        {
+          "name": "Learn Premiere Pro",
+          "url": "https://helpx.adobe.com/premiere-pro/tutorials.html"
+        }
+      ],
+      "projects": [
+        {
+          "name": "vivy_amv.prproj",
+          "details": "Rendering at 4K H.264 VBR 2-pass"
+        },
+        {
+          "name": "waifu_compilation.prproj",
+          "details": "LUT grading with Lumetri scopes"
+        },
+        {
+          "name": "jjk_fight_edit.prproj",
+          "details": "GPU-accelerated RSMB plugin"
+        },
+        {
+          "name": "miku_concert.prproj",
+          "details": "Audio waveform sync at 48kHz"
+        }
+      ]
+    },
+    {
+      "name": "After Effects",
+      "details": "Motion graphics and visual effects",
+      "state": "Creating animations",
+      "type": "PLAYING",
+      "largeImage": "1401237502802661386",
+      "largeImageText": "Adobe After Effects 2024",
+      "smallImage": "creative_cloud",
+      "smallImageText": "Creative Cloud",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "buttons": [
+        {
+          "name": "Learn After Effects",
+          "url": "https://helpx.adobe.com/after-effects/tutorials.html"
+        }
+      ],
+      "projects": [
+        {
+          "name": "neko_particles.aep",
+          "details": "Trapcode Particular 5.0.1 GPU sim"
+        },
+        {
+          "name": "magical_circle.aep",
+          "details": "Element 3D v2.2 with OBJ models"
+        },
+        {
+          "name": "intro.aep",
+          "details": "OpenGL 32bpc linear workflow"
+        },
+        {
+          "name": "chibi_bounce.aep",
+          "details": "DUIK rigging with ease curves"
+        }
+      ]
+    },
+    {
+      "name": "Illustrator",
+      "details": "Vector graphics editor",
+      "state": "Creating vector art",
+      "type": "PLAYING",
+      "largeImage": "1401251726115213312",
+      "largeImageText": "Adobe Illustrator 2024",
+      "smallImage": "creative_cloud",
+      "smallImageText": "Creative Cloud",
+      "url": "https://www.adobe.com/products/illustrator.html",
+      "buttons": [
+        {
+          "name": "Learn Illustrator",
+          "url": "https://helpx.adobe.com/illustrator/tutorials.html"
+        }
+      ],
+      "projects": [
+        {
+          "name": "nigga_chan.ai",
+          "details": "Bezier curves with 0.5pt stroke"
+        },
+        {
+          "name": "kitsune_mascot.ai",
+          "details": "SVG paths optimization (Layer 3/7)"
+        },
+        {
+          "name": "kurisu_stickers.ai",
+          "details": "CMYK color profile prepress"
+        },
+        {
+          "name": "vtuber_overlay.ai",
+          "details": "PNG-24 transparency export"
+        }
+      ]
+    },
+    {
+      "name": "Photoshop",
+      "details": "Photo editing software",
+      "state": "Editing photos",
+      "type": "PLAYING",
+      "largeImage": "1401237502815371304",
+      "largeImageText": "Adobe Photoshop 2024",
+      "smallImage": "creative_cloud",
+      "smallImageText": "Creative Cloud",
+      "url": "https://www.adobe.com/products/photoshop.html",
+      "buttons": [
+        {
+          "name": "Learn Photoshop",
+          "url": "https://helpx.adobe.com/photoshop/tutorials.html"
+        }
+      ],
+      "projects": [
+        {
+          "name": "dreamy_edit.psd",
+          "details": "16-bit HDR tone mapping curves"
+        },
+        {
+          "name": "maid_poster.psd",
+          "details": "Neural filters AI upscaling x4"
+        },
+        {
+          "name": "wibu_wallpaper.psd",
+          "details": "32-bit floating point compositing"
+        },
+        {
+          "name": "tsundere_meme.psd",
+          "details": "Smart objects with vector masks"
+        }
+      ]
+    }
+  ]
+}
